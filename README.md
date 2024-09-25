@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CiberRealms (Code Craft)
+- 👋 Hi, I’m @CiberRealms (CodeCraft)
 - 👀 I’m interested in : Programming, software development, technology.
 - 🌱 I’m currently learning: Python, Java, Apache Tomcat, Visual Studio Code.
 - 💞️ I’m looking to collaborate on: Open source projects, web applications, development tools.
