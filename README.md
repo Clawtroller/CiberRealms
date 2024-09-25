@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CiberRealms (CodeCraft)
 - 👀 I’m interested in : Programming, software development, technology.
-- 🌱 I’m currently learning: Python, Java, Apache Tomcat, Visual Studio Code.
+- 🌱 I’m currently learning: Python, Java.
 - 💞️ I’m looking to collaborate on: Open source projects, web applications, development tools.
 - 📫 How to reach me: alex_estudios@outlook.com
 - ⚡ Fun fact: I enjoy tackling complex problems, studying programming, and taking on new challenges. Lover of good tea, cats, reading, and video games.🐾
