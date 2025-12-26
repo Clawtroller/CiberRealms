@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Clawtroller
-- 👀 I’m interested in : Programming, software development, technology.
+- 👀 I’m interested: Programming, software development, technology.
 - 🌱 I’m currently learning: POO (Object-oriented programming), Java.
 - 💞️ I’m looking to collaborate on: Open source projects, web applications, development tools.
 - 📫 How to reach me: alex_estudios@outlook.com
